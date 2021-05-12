@@ -9,7 +9,7 @@
  
  i love to develop some algorithm for communicate embedded system one another.
  
- i am enthusiasm about low level algorithm that can calculate something faster than some other approaches.
+ i am enthusiastic about low level algorithm that can calculate something faster than some other approaches.
  
  for example, the code below can convert a 16 bit binary value to bcd with a very fast way. 
  
